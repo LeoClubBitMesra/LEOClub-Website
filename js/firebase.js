@@ -1,5 +1,3 @@
-(function ($) {
-    "use strict";
 var firebaseConfig = {
     apiKey: "AIzaSyCnBn7BqdtvjoVqawwKQ7_jPfjNKnsv1e8",
     authDomain: "newfirebase-c479e.firebaseapp.com",
@@ -43,4 +41,3 @@ $("#btn-logout1").click(function () {
 
   firebase.auth().signOut();
 });
-})(jQuery);
