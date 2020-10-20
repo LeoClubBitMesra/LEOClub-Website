@@ -1,7 +1,7 @@
 var firebaseConfig = {
     apiKey: "AIzaSyCnBn7BqdtvjoVqawwKQ7_jPfjNKnsv1e8",
-    authDomain: "newfirebase-c479e.firebaseapp.com",
-    databaseURL: "https://newfirebase-c479e.firebaseio.com",
+    authDomain: "srishti-10.github.io",
+    databaseURL: "https://newfirebase-c479e.firebaseio.co",
     projectId: "newfirebase-c479e",
     storageBucket: "newfirebase-c479e.appspot.com",
     messagingSenderId: "845608843636",
